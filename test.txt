@@ -3,3 +3,7 @@ adding another line of code
 some difference is there.
 
 for the myfeature branch
+
+first line
+
+second line
